@@ -18,6 +18,8 @@ Update a user's data by ID
 
 
  ### How to start your node project
+ 
+ -git clone <repo name>
 
  - npm install
 
