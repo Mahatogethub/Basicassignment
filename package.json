@@ -1,0 +1,15 @@
+{
+  "name": "userdata",
+  "version": "1.0.0",
+  "description": "Task: Build a simple RESTful API to fetch and update user data\r Requirements\r You are required to build a simple RESTful API using Node.js and any database of your choice (e.g. MySQL, MongoDB). The API should support the following operations:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index"
+  },
+  "author": "'Rana Mahato'",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
